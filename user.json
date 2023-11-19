@@ -1,0 +1,16 @@
+[
+    {
+        "userName": "zeinab.kasssem@gmail.com",
+        "fullName": "Zeinab Kassem",
+        "password": "Bouba2003*",
+        "sex": "Female",
+        "dob": "2003-11-11"
+    },
+    {
+        "userName": "fadi.ahmad@gmail.com",
+        "fullName": "Fadi Ahmad",
+        "password": "Fadi2003*",
+        "sex": "Male",
+        "dob": "1991-02-12"
+    }
+]
